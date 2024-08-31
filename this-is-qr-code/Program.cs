@@ -10,7 +10,7 @@ string asciiLogo = @" _   _     _       _                                  _
                               |_|                            
 ";
 
-Console.ForegroundColor = ConsoleColor.Blue;
+Console.ForegroundColor = ConsoleColor.Magenta;
 Console.WriteLine(asciiLogo);
 Console.ForegroundColor = ConsoleColor.White;
 

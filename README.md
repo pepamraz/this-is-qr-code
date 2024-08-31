@@ -1,4 +1,5 @@
-# this-is-qr-code
+# this is qr code
+![this-is-qr-code-thumbnail](this-is-qr-code-thumbnail.png "this is qr code")
 A simple QR Code generator made in C#.
 
 Are you tired of using third-party QR code generators that have paywalls and expired links? Do you want to encrypt your link directly into the QR code? Then this repository is for you!
@@ -13,3 +14,4 @@ The advantages of using this QR code generator are:
 * It doesn't have any paywalls or expired links.
 * You can encrypt your link directly into the QR code.
 * It's written in C# 💜.
+
